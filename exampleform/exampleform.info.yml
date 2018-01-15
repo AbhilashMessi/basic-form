@@ -1,0 +1,5 @@
+name: Example Form
+description: An Example form
+type: module
+version: 1.0
+core: 8.x

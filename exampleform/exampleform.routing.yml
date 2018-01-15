@@ -1,0 +1,7 @@
+basicform.form:
+  path: '/example-form-example'
+  defaults:
+    _title: 'Example Form'
+    _form: '\Drupal\exampleform\Form\ExampleForm'
+  requirements:
+    _access: 'TRUE'
